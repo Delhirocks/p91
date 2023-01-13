@@ -1,0 +1,38 @@
+body 
+{
+	background-color: rgb(255, 0, 21);
+}
+
+.login_div1,
+.login_div2 {
+	background: rgb(55, 0, 255);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+
+#player1_name,
+#player2_name {
+	display: inline-flex;
+	margin-left: 20px;
+	background-image: -moz-repeating-linear-gradient();
+}
+
+#output {
+	background-color: calc();
+	padding: 10px;
+	border-radius: 10px;
+	float: none;
+	text-align: left;
+}
+
+#output
+{
+	background-color: crimson;
+	border-radius: 10px;
+	border-top: 10px solid #aa4465
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
